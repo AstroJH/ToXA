@@ -1,1 +1,1 @@
-# ToXA
+# Tools of X-ray Astronomy
